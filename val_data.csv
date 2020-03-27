@@ -1,0 +1,2 @@
+index,Province/State,Country/Region,Lat,Long,Date,Cases,DayOfMonth,Quarter,Month,WeekNumber,DayOfYear,BB_LAMBDA,AUX_OLS_DEP
+28146,,India,21.0,78.0,2020-01-22,0,22,1,1,4,22,0.10135890260373132,0.10135890260373132
