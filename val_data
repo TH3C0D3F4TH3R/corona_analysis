@@ -1,2 +1,0 @@
-index,Province/State,Country/Region,Lat,Long,Date,Cases,DayOfMonth,Quarter,Month,WeekNumber,DayOfYear,Age_Grp1,Age_Grp2,Age_Grp3,Age_Grp4,Age_Grp5,Age_Grp6,Age_Grp7,Age_Grp8,Age_Grp9,Age_Grp10,Age_Grp11,BB_LAMBDA,AUX_OLS_DEP
-7703,,India,21.0,78.0,2020-02-16,3,16,1,2,7,47,234861,252200,239901,215636,169659,128131,87150,39174,12020,1215,47,1.500972726496437,-0.5016195297898116
